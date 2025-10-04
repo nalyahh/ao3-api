@@ -10,13 +10,13 @@ This was a personal project intended to make a library database page in my Notio
 
 * Fetches details from any public AO3 work URL.
 * Returns the data in a clean, easy-to-use JSON format.
+* More to come soon!
 * Scrapes for:
     * Title
     * Author
     * Summary
     * Word Count
     * Chapter Count
-    * Rating
     * Fandoms
 
 
